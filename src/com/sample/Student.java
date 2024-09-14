@@ -5,5 +5,6 @@ public class Student{
 		
 	
 		System.out.println("adhi");
+		System.out.println("adhiran");
 	}
 }
